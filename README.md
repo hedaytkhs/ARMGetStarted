@@ -18,6 +18,9 @@ Azure App Service や Azure Functions のリソース作成を自動化するARM
 
 [ARM Templates for Function App Deployment](https://learn.microsoft.com/ja-jp/samples/azure-samples/function-app-arm-templates/arm-templates-for-function-app-deployment/?ns-enrollment-type=Collection&ns-enrollment-id=5myt1yx0wp7wz)
 
+
+[Azure Function App with Event Hub and Managed Identity](https://github.com/azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.web/function-app-event-hub-managed-identity#azure-function-app-with-event-hub-and-managed-identity)
+
 ### すぐに使える状態にしておく
 
 自分の GitHub リポジトリにフォークしておき、いつでもすぐに使える状態にしておく。
