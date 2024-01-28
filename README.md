@@ -22,3 +22,8 @@ Azure App Service や Azure Functions のリソース作成を自動化するARM
 ### Linux VM デプロイ用の Bicep テンプレート
 
 [Deploy a simple Ubuntu Linux VM 18.04-LTS](https://github.com/azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.compute/vm-simple-linux#deploy-a-simple-ubuntu-linux-vm-1804-lts)
+
+
+### API Management (Premium) マルチリージョンへのデプロイ用の Bicep テンプレート
+
+[Create a multiregion Premium tier API Management instance](https://github.com/azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.apimanagement/api-management-create-with-multiregion#create-a-multiregion-premium-tier-api-management-instance)
