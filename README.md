@@ -18,3 +18,7 @@ Azure App Service や Azure Functions のリソース作成を自動化するARM
 ### Web App デプロイ用の Bicep テンプレート
 
 [Deploy an app service with regional VNet integration](https://github.com/azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.web/app-service-regional-vnet-integration#deploy-an-app-service-with-regional-vnet-integration)
+
+### Linux VM デプロイ用の Bicep テンプレート
+
+[Deploy a simple Ubuntu Linux VM 18.04-LTS](https://github.com/azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.compute/vm-simple-linux#deploy-a-simple-ubuntu-linux-vm-1804-lts)
