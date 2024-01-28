@@ -27,3 +27,7 @@ Azure App Service や Azure Functions のリソース作成を自動化するARM
 ### API Management (Premium) マルチリージョンへのデプロイ用の Bicep テンプレート
 
 [Create a multiregion Premium tier API Management instance](https://github.com/azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.apimanagement/api-management-create-with-multiregion#create-a-multiregion-premium-tier-api-management-instance)
+
+### API Management の可用性ゾーンへのデプロイ用の Bicep テンプレート
+
+[Deploy API Management into Availability Zones](https://github.com/azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.apimanagement/api-management-simple-zones#deploy-api-management-into-availability-zones)
