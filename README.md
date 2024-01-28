@@ -45,3 +45,7 @@ Azure App Service や Azure Functions のリソース作成を自動化するARM
 ### API Management の可用性ゾーンへのデプロイ用の Bicep テンプレート
 
 [Deploy API Management into Availability Zones](https://github.com/azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.apimanagement/api-management-simple-zones#deploy-api-management-into-availability-zones)
+
+### プライベートエンドポイントをもつAPI Management をデプロイする Bicep テンプレート
+
+[Create an API Management service with a private endpoint](https://github.com/azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.apimanagement/api-management-private-endpoint#create-an-api-management-service-with-a-private-endpoint)
