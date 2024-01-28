@@ -20,6 +20,10 @@ Azure App Service や Azure Functions のリソース作成を自動化するARM
 
 Azure Functions のリソースを作成するBicep テンプレート
 
+従量課金プラン
+
+[Provision a function app on a Consumption plan](https://github.com/azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.web/function-app-create-dynamic#provision-a-function-app-on-a-consumption-plan)
+
 [Azure Function App Hosted on Linux Consumption Plan](https://github.com/azure-samples/function-app-arm-templates/tree/main/function-app-linux-consumption#azure-function-app-hosted-on-linux-consumption-plan)
 
 [Azure Function App with Event Hub and Managed Identity](https://github.com/azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.web/function-app-event-hub-managed-identity#azure-function-app-with-event-hub-and-managed-identity)
@@ -35,6 +39,12 @@ Azure Functions のリソースを作成するBicep テンプレート
 ### Web App デプロイ用の 各種 ARM テンプレート
 
 ### Web App デプロイ用の Bicep テンプレート
+
+Java 13, Tomcat 9 を有効にした Web App をデプロイする
+
+[Create a web app on Azure with Java 13 and Tomcat 9 enabled](https://github.com/azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.web/web-app-java-tomcat#create-a-web-app-on-azure-with-java-13-and-tomcat-9-enabled)
+
+リージョナル VNet 統合を有効にした App Service をデプロイする
 
 [Deploy an app service with regional VNet integration](https://github.com/azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.web/app-service-regional-vnet-integration#deploy-an-app-service-with-regional-vnet-integration)
 
