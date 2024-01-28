@@ -18,6 +18,7 @@ Azure App Service や Azure Functions のリソース作成を自動化するARM
 
 [ARM Templates for Function App Deployment](https://learn.microsoft.com/ja-jp/samples/azure-samples/function-app-arm-templates/arm-templates-for-function-app-deployment/?ns-enrollment-type=Collection&ns-enrollment-id=5myt1yx0wp7wz)
 
+[Azure Function App Hosted on Linux Consumption Plan](https://github.com/azure-samples/function-app-arm-templates/tree/main/function-app-linux-consumption#azure-function-app-hosted-on-linux-consumption-plan)
 
 [Azure Function App with Event Hub and Managed Identity](https://github.com/azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.web/function-app-event-hub-managed-identity#azure-function-app-with-event-hub-and-managed-identity)
 
