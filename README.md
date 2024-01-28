@@ -22,6 +22,10 @@ Azure App Service や Azure Functions のリソース作成を自動化するARM
 
 [Azure Function App with Event Hub and Managed Identity](https://github.com/azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.web/function-app-event-hub-managed-identity#azure-function-app-with-event-hub-and-managed-identity)
 
+プライベートリンクを経由して Azure Digital Twins へ通信するリソースを作成する Bicep テンプレート
+
+[Azure Digital Twins with Function and Private Link service](https://github.com/azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.digitaltwins/digitaltwins-with-function-private-link#azure-digital-twins-with-function-and-private-link-service)
+
 ### すぐに使える状態にしておく
 
 自分の GitHub リポジトリにフォークしておき、いつでもすぐに使える状態にしておく。
