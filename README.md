@@ -3,6 +3,15 @@
 ## はじめに
 Azure App Service や Azure Functions のリソース作成を自動化するARMテンプレートを使い始めるためのサンプルなどをまとめるリポジトリです。
 
+### リソース グループを作成する Bicep テンプレート
+リソース グループを作るだけ。
+
+ただ、それだけだけれども、Azure Portal から作るのが面倒だ、というときがあると思う。
+
+リソース グループを作っては削除して、ということをやるのであれば、Bicep テンプレートから作成できるようしておく、というのでもよいと思う。
+
+[Create a resourceGroup](https://github.com/azure/azure-quickstart-templates/tree/master/subscription-deployments/create-rg#create-a-resourcegroup)
+
 ### Function App デプロイ用の 各種 ARM テンプレート
 
 サンプルのARM テンプレート一覧
